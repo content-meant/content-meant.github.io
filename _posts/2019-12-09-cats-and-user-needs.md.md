@@ -4,7 +4,7 @@ title: "On cats, and giving people what they want"
 date: 2019-12-09
 ---
 
-I'm lucky enough to live with two rather elderly and extremely fluffy cats. Over the years I've had a few cats, and I believe that my interactions with them have helped me in my career as someone who write words that people may or may not read. 
+I'm lucky enough to live with two rather elderly and extremely fluffy cats. Over the years I've had a few cats, and I believe that my interactions with them have helped me in my career as someone who writes words that people may or may not read. 
 
 I've come to realise that cats and people are remarkably similar in the way they react to things that do not please them, which I'll attempt to demonstrate with some findings about my own cats.
 
