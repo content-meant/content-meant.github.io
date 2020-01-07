@@ -8,7 +8,7 @@ Sometimes the hardest part of content design is not doing what you're asked.
 
 This means digging your heels in and refusing to write something like this:
 
-![instagram](BpKjlo-B4uI)
+![instagram](BvgZf8LAOgg)
 
 <div>
   <iframe
@@ -18,6 +18,6 @@ This means digging your heels in and refusing to write something like this:
     scrolling="no"
     allowtransparency
     width="320"
-    height="320"
-    ></iframe>
+    height="320">
+  </iframe>
 </div>
