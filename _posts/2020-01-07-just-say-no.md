@@ -4,9 +4,11 @@ title: "Just say no"
 date: 2020-01-07
 ---
 
-Sometimes the hardest aspect of content design is not doing it.
+Sometimes the hardest part of content design is not doing what you're asked.
 
-By this I mean digging your heels in and refusing to write something like this:
+This means digging your heels in and refusing to write something like this:
+
+![instagram](BpKjlo-B4uI)
 
 <div>
   <iframe
@@ -17,5 +19,5 @@ By this I mean digging your heels in and refusing to write something like this:
     allowtransparency
     width="320"
     height="320"
-  ></iframe>
+    ></iframe>
 </div>
