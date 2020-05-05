@@ -8,7 +8,6 @@ Sometimes the hardest part of content design is refusing to write words.
 
 Here's a picture I took of a train door (covered in notices explaining how to open it) to illustrate my point:
 
- {% instagram BvgZf8LAOgg %}
 
 I'm often asked to come up with words to explain how to carry out a task. Nine times out of ten I will (politely) say no. I'm not being lazy or difficult! (Although I am actually pretty lazy and difficult, I try to restrict my laziness and difficulty to my free time.)
 
